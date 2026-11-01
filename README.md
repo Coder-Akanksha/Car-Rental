@@ -2,7 +2,7 @@
 
 A full-stack car rental web application built using the MERN stack. It allows users to explore available cars, book vehicles for rental and manage their bookings. Car owners can list their vehicles, manage cars and monitor customer bookings.
 
-**Repository:** [Car Rental – GitHub](https://github.com/Singh-Devanand/Car-Rental)
+**Repository:** [Car Rental – GitHub](https://github.com/Coder-Akanksha/Car-Rental)
 
 ---
 
@@ -562,7 +562,7 @@ Before running the project, install:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Singh-Devanand/Car-Rental.git
+git clone https://github.com/Coder-Akanksha/Car-Rental.git
 ```
 
 ```bash
@@ -708,10 +708,10 @@ These are possible enhancements and should not be considered existing features u
 
 ## 👨‍💻 Author
 
-**Devanand Singh**
+**Akanksha Maurya**
 
-* GitHub: [Singh-Devanand](https://github.com/Singh-Devanand)
-* Project Repository: [Car Rental](https://github.com/Singh-Devanand/Car-Rental)
+* GitHub: [Coder-Akanksha](https://github.com/Coder-Akanksha)
+* Project Repository: [Car Rental](https://github.com/Coder-Akanksha/Car-Rental)
 
 ---
 
